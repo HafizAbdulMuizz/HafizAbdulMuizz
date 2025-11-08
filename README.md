@@ -112,9 +112,10 @@ I’ve built and tested multiple RESTful APIs and server-side applications.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-  <a href="https://www.linkedin.com/in/hafiz-abdul-muizz-29a391267">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sh.hafizabdulmuizzraashidlateef@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   
 </p>
 
