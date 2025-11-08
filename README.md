@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/HafizAbdulMuizz/HafizAbdulMuizz/blob/main/HafizAbdulMuizz banner.png" alt="Hafiz Abdul Muizz | MERN Stack Developer" width="100%"> 
+</p>
+
 # 👋 Hi, I'm Hafiz Abdul Muizz  
 
 🚀 **Full Stack Web Developer | MERN Stack | React | Tailwind CSS | Node.js | MongoDB | Express.js**
