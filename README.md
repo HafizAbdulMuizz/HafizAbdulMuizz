@@ -1,6 +1,15 @@
+<!-- 🎯 Banner -->
+
 <p align="center">
   <img src="https://github.com/HafizAbdulMuizz/HafizAbdulMuizz/blob/main/HafizAbdulMuizz banner.png" alt="Hafiz Abdul Muizz | MERN Stack Developer" width="100%"> 
 </p>
+
+<!-- 🧠 Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFFF&center=true&vCenter=true&lines=Full+Stack+%2F+MERN+Developer;Problem+Solver;Passionate+Web+Creator;Love+to+Build+and+Deploy!" alt="Typing Animation" />
+</h3>
+
+---
 
 # 👋 Hi, I'm Hafiz Abdul Muizz  
 
@@ -88,6 +97,11 @@ I’ve built and tested multiple RESTful APIs and server-side applications.
 - VS Code, npm  
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizAbdulMuizz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAbdulMuizz&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
 
 ## 🌐 **Connect With Me**
 
