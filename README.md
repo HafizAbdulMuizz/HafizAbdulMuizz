@@ -103,12 +103,24 @@ I’ve built and tested multiple RESTful APIs and server-side applications.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAbdulMuizz&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
-## 🌐 **Connect With Me**
+---
 
-📧 **Email:** sh.hafizabdulmuizzraashidlateef@gmail.com  
-🔗 **LinkedIn:** [Hafiz Abdul Muizz](https://www.linkedin.com/in/hafiz-abdul-muizz-29a391267)  
-💻 **GitHub:** [HafizAbdulMuizz](https://github.com/HafizAbdulMuizz)
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:sh.hafizabdulmuizzraashidlateef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hafiz-abdul-muizz-29a391267">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://uniquenetfliks.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+⭐ **"Code. Create. Innovate. Repeat."**
 
 ⭐ *If you like my work, don’t forget to star the repositories and connect with me!*  
