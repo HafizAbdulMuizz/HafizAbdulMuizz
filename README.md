@@ -1,128 +1,199 @@
 <!-- 🎯 Banner -->
 
 <p align="center">
-  <img src="https://github.com/HafizAbdulMuizz/HafizAbdulMuizz/blob/main/HafizAbdulMuizz banner.png" alt="Hafiz Abdul Muizz | MERN Stack Developer" width="100%"> 
+  <img src="https://github.com/HafizAbdulMuizz/HafizAbdulMuizz/blob/main/HafizAbdulMuizz banner.png" alt="Hafiz Abdul Muizz | Full Stack Developer" width="100%">
 </p>
 
 <!-- 🧠 Typing Animation -->
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFFF&center=true&vCenter=true&lines=Full+Stack+%2F+MERN+Developer;Problem+Solver;Passionate+Web+Creator;Love+to+Build+and+Deploy!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Building+Modern+Responsive+Web+Apps;Always+Learning+New+Technologies!" alt="Typing Animation" />
 </h3>
 
 ---
 
-# 👋 Hi, I'm Hafiz Abdul Muizz  
+# 👋 Hi, I'm Hafiz Abdul Muizz
 
-🚀 **Full Stack Web Developer | MERN Stack | React | Tailwind CSS | Node.js | MongoDB | Express.js**
-
-I'm a passionate web developer who loves building complete web solutions — from pixel-perfect frontends to scalable backends.  
-Recently completed a **Full Stack Web Development course**, where I built multiple real-world projects and learned end-to-end development.  
-
----
-
-## 💼 **Featured Projects**
-
-### 🎬 [Netflix Clone](https://uniquenetfliks.netlify.app)
-**Tech Stack:** HTML, CSS  
-A responsive Netflix homepage clone with a modern layout, hero section, and CTA buttons.
-
-🔗 [View on GitHub](https://github.com/HafizAbdulMuizz/project-1-netflix-colon-using-html-and-css)
+💻 Passionate Full Stack Web Developer  
+🚀 Building modern and responsive web applications  
+🎯 Currently learning advanced Next.js and backend development  
+🌱 Continuously improving through real-world projects
 
 ---
 
-### 🎵 [Spotify Clone](https://uniquespotify.netlify.app)
-**Tech Stack:** HTML, CSS, JavaScript  
-A Spotify-style music player with albums, playlists, and functional play/pause controls powered by JS.
+# 🌐 Portfolio
 
-🔗 [View on GitHub](https://github.com/HafizAbdulMuizz/project-2-spotify-clone-using-html-css-js)
-
----
-
-### 🐦 [Twitter Clone](https://uniquetwitter.netlify.app)
-**Tech Stack:** HTML, Tailwind CSS  
-A responsive Twitter UI clone built using Tailwind CSS, showcasing component-based design and modern styling.
-
-🔗 [View on GitHub](https://github.com/HafizAbdulMuizz/project-3-twitter-clone-using-tailwindcss)
+🔗 Live Portfolio:  
+https://abdulmuizz-portfolio-eta.vercel.app/
 
 ---
 
-### ✅ [Todo List App](https://uniquetoodolist.netlify.app)
-**Tech Stack:** React, CSS, JavaScript  
-A React-based Todo app for managing daily tasks — add, delete, and mark tasks as complete.
+# 💼 Featured Projects
 
-🔗 [View on GitHub](https://github.com/HafizAbdulMuizz/project-4-todo-list-using-react)
+## 🎬 Netflix Clone
 
----
+**Tech Stack:** HTML, CSS
 
-## ⚙️ **Backend Development Experience**
+Responsive Netflix-inspired landing page with modern UI and responsive layouts.
 
-Alongside frontend projects, I have strong experience in **Node.js**, **Express.js**, and **MongoDB** for backend development.  
-I’ve built and tested multiple RESTful APIs and server-side applications.  
+🔗 Live Demo:  
+https://uniquenetfliqs.netlify.app/
 
-### 🧠 **What I’ve Worked On:**
-- Building and structuring Express servers  
-- Using **Routers** to organize routes and endpoints  
-- Working with **Middlewares** for authentication, logging, and validation  
-- Handling **CRUD operations (GET, POST, PUT, DELETE)**  
-- Integrating **MongoDB** for dynamic data storage and retrieval  
-- Using **Mongoose ODM** for schema modeling  
-- Performing file operations (read/write/update) using Node’s built-in `fs` module  
-- Managing API responses and error handling professionally  
-- Testing APIs via **Postman / Thunder Client**  
-
-### 🧰 **Backend Tech Stack**
-- **Node.js** – Server runtime  
-- **Express.js** – Backend framework  
-- **MongoDB & Mongoose** – NoSQL database & modeling  
-- **REST APIs** – Endpoints and data flow management  
-- **Middleware** – Logging, authentication, and validation layers  
+🔗 GitHub Repository:  
+https://github.com/HafizAbdulMuizz/project-1-netflix-colon-using-html-and-css
 
 ---
 
-## 🧠 **Core Skills**
+## 🎵 Spotify Clone
 
-### 🖥️ **Frontend**
-- HTML5, CSS3, Tailwind CSS  
-- JavaScript (ES6+), React.js  
-- Responsive & modern UI design  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js
 
-### ⚙️ **Backend**
-- Node.js, Express.js, MongoDB  
-- CRUD Operations, REST APIs, Middleware  
-- File Handling, Routers, Authentication  
+Spotify-inspired music web application with dynamic functionality and interactive controls.
 
-### 🧰 **Tools & Platforms**
-- Git, GitHub  
-- Netlify, MongoDB Atlas, Postman  
-- VS Code, npm  
+🔗 Live Demo:  
+https://uniquespotify.netlify.app/
+
+🔗 GitHub Repository:  
+https://github.com/HafizAbdulMuizz/project-2-spotify-clone-using-html-css-js
 
 ---
+
+## 🐦 Twitter Clone
+
+**Tech Stack:** Tailwind CSS, HTML
+
+Responsive Twitter-inspired frontend interface built using modern Tailwind CSS utilities.
+
+🔗 Live Demo:  
+https://uniquetwitter.netlify.app/
+
+🔗 GitHub Repository:  
+https://github.com/HafizAbdulMuizz/project-3-twitter-clone-using-tailwindcss
+
+---
+
+## ✅ Todo List Application
+
+**Tech Stack:** React.js, Express.js, Tailwind CSS
+
+Full stack Todo application with CRUD functionality and responsive UI.
+
+🔗 Live Demo:  
+https://uniquetoodolist.netlify.app/
+
+🔗 GitHub Repository:  
+https://github.com/HafizAbdulMuizz/react-todo-list
+
+---
+
+## 🚀 Personal Portfolio Website
+
+**Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+
+Modern premium portfolio website featuring responsive design, animations, GitHub integration and downloadable CV.
+
+🔗 Live Demo:  
+https://abdulmuizz-portfolio-eta.vercel.app/
+
+🔗 GitHub Repository:  
+https://github.com/HafizAbdulMuizz/abdulmuizz-portfolio
+
+---
+
+# ⚙️ Backend Development Experience
+
+I have practical experience building backend applications using Node.js, Express.js and MongoDB.
+
+### 🧠 What I've Worked On
+
+- Building RESTful APIs
+- CRUD Operations (GET, POST, PUT, DELETE)
+- Express Routing & Middleware
+- MongoDB Integration
+- Mongoose Schema Modeling
+- API Testing with Postman & Thunder Client
+- Authentication & Error Handling
+- File Operations using Node.js
+
+---
+
+# 🚀 Tech Stack
+
+## 🖥️ Frontend
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Responsive Design
+
+---
+
+## ⚙️ Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- REST APIs
+- Middleware
+
+---
+
+## 🧰 Tools & Platforms
+
+- Git & GitHub
+- Vercel
+- Netlify
+- MongoDB Atlas
+- Postman
+- VS Code
+- npm
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizAbdulMuizz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAbdulMuizz&theme=tokyonight" alt="GitHub Streak" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizAbdulMuizz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAbdulMuizz&theme=tokyonight" alt="GitHub Streak" height="160"/>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sh.hafizabdulmuizzraashidlateef@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </a>
 
+<a href="https://www.linkedin.com/in/hafiz-abdul-muizz-29a391267/" target="_blank">
 
-  <a href="https://www.linkedin.com/in/hafiz-abdul-muizz-29a391267">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-  
+</a>
+
+<a href="https://github.com/HafizAbdulMuizz" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
 </p>
 
 ---
 
-⭐ **"Code. Create. Innovate. Repeat."**
+# ⭐ Developer Mindset
 
-⭐ *If you like my work, don’t forget to star the repositories and connect with me!*  
+⭐ Code. Create. Innovate. Repeat.
+
+⭐ Passionate about learning, building and deploying modern web applications.
