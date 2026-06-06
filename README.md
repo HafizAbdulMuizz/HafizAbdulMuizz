@@ -16,7 +16,7 @@
 
 💻 Passionate Full Stack Web Developer  
 🚀 Building modern and responsive web applications  
-🎯 Currently learning advanced Next.js and backend development  
+🎯 Building Full Stack Applications with Next.js, MongoDB and Modern Web Technologies
 🌱 Continuously improving through real-world projects
 
 ---
@@ -29,6 +29,34 @@ https://abdulmuizz-portfolio-eta.vercel.app/
 ---
 
 # 💼 Featured Projects
+
+## 🚗 Shinova Detailing Management System
+
+**Tech Stack:** Next.js, React.js, MongoDB Atlas, Mongoose, Tailwind CSS, Vercel
+
+A full stack car detailing management system featuring online appointment booking, admin authentication, booking management dashboard, customer search, revenue analytics, booking status tracking and cloud deployment.
+
+### Key Features
+
+* Customer Appointment Booking
+* Admin Login & Logout
+* Protected Admin Dashboard
+* Booking Status Management
+* Revenue Analytics
+* Customer Search
+* Delete Bookings
+* Responsive Design
+* MongoDB Atlas Integration
+* Vercel Deployment
+
+🔗 Live Demo:
+https://shinova-detailing.vercel.app/
+
+🔗 GitHub Repository:
+https://github.com/HafizAbdulMuizz/shinova-detailing
+
+---
+
 
 ## 🎬 Netflix Clone
 
@@ -114,6 +142,8 @@ I have practical experience building backend applications using Node.js, Express
 - API Testing with Postman & Thunder Client
 - Authentication & Error Handling
 - File Operations using Node.js
+- Cloud Deployment using Vercel
+- MongoDB Atlas Database Management
 
 ---
 
