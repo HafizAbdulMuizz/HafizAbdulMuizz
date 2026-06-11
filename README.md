@@ -30,6 +30,37 @@ https://abdulmuizz-portfolio-eta.vercel.app/
 
 # 💼 Featured Projects
 
+## 🕌 SAS Online Quran Academy
+
+**Tech Stack:** Next.js, React.js, MongoDB Atlas, Mongoose, Tailwind CSS, Vercel
+
+A modern full stack Quran Academy website featuring online student admissions, admin authentication, admission management dashboard, student management tools, search & filtering functionality, CSV export and cloud deployment.
+
+### Key Features
+
+* Online Admission Form
+* MongoDB Atlas Integration
+* Admin Authentication
+* Protected Admin Dashboard
+* Student Admission Management
+* Approve Admissions
+* Delete Admissions
+* Search Students
+* Course Filtering
+* CSV Export
+* Responsive Design
+* Modern Islamic UI
+* Vercel Deployment
+
+🔗 Live Demo:
+https://sas-quran-academy.vercel.app/
+
+🔗 GitHub Repository:
+https://github.com/HafizAbdulMuizz/sas-quran-academy
+
+---
+
+
 ## 🚗 Shinova Detailing Management System
 
 **Tech Stack:** Next.js, React.js, MongoDB Atlas, Mongoose, Tailwind CSS, Vercel
