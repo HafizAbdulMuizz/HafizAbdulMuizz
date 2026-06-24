@@ -30,6 +30,51 @@ https://abdulmuizz-portfolio-eta.vercel.app/
 
 # 💼 Featured Projects
 
+---
+
+## 🚀 TEYZIX Service Marketplace
+
+**Tech Stack:** Next.js 15, React.js, MongoDB Atlas, Mongoose, JWT Authentication, bcrypt, Tailwind CSS, Cloudinary, Vercel
+
+A complete full-stack freelance service marketplace inspired by Fiverr and Upwork where customers can browse services, hire providers, submit project requests, track project progress, and leave reviews.
+
+### Key Features
+
+* User Registration & Login
+* JWT Authentication
+* Role-Based Access Control
+* Customer Dashboard
+* Provider Dashboard
+* Admin Dashboard
+* Provider Profile Management
+* Profile Image Upload
+* Service Listings
+* Service Search & Filtering
+* Service Requests
+* Project Tracking Workflow
+* Review & Rating System
+* Earnings Overview
+* Statistics Dashboard
+* Responsive Design
+* MongoDB Atlas Integration
+* Cloud Deployment
+
+### Project Workflow
+
+Pending
+→ Accepted
+→ In Progress
+→ Completed
+→ Delivered
+
+🔗 Live Demo:
+https://teyzix-service-marketplace-mqhx.vercel.app/
+
+🔗 GitHub Repository:
+https://github.com/HafizAbdulMuizz/teyzix-service-marketplace
+
+---
+
 ## 🕌 SAS Online Quran Academy
 
 **Tech Stack:** Next.js, React.js, MongoDB Atlas, Mongoose, Tailwind CSS, Vercel
@@ -200,7 +245,9 @@ I have practical experience building backend applications using Node.js, Express
 - MySQL
 - REST APIs
 - Middleware
-
+- JWT Authentication
+- bcrypt
+- Cloudinary
 ---
 
 ## 🧰 Tools & Platforms
